@@ -55,7 +55,7 @@ label_dateformat.place(x=420, y=18)
 label_search_vacc = Label(text="Search \nAvailable Vaccine", bg = top_right_frame_bg, font = 'Verdana 8')
 label_search_vacc.place(x=570, y=70)
 
-label_head_result = Label(text=" Status       \tCentre-Name\t              Age-Group    Vaccine       Dose_1     Dose_2     Total", bg = 'black', fg='white', font = 'Verdana 8 bold')
+label_head_result = Label(text=" Status               \tCentre-Name\t                                             Age-Group             Vaccine             Dose_1           Dose_2            Total", bg = 'black', fg='white', font = 'Verdana 8 bold')
 label_head_result.place(x=10, y=125)
 
 
